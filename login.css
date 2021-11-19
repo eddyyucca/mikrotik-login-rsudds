@@ -47,11 +47,11 @@ legend {
 }
 
 #userdiv {
-    background: #009c1a url(rsud_datu_sanggul.png) no-repeat center;
-    width: 70px;
+    background: #009c1a url(user.png) no-repeat center;
+    /* width: 70px;
     height: 70px;
     border-radius: 50%;
-    margin: 5px;
+    margin: 5px; */
 }
 
 
